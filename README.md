@@ -1,6 +1,4 @@
-# Studytrack
-feature/registro-tareas
-bugfix/error-fechas
-[Feature] Se agrega CRUD de materias
-[Fix] Se corrige error en validación de fechas
-[Update] Mejora en diseño de interfaz principal
+Reglas de colaboracion: 
+*La rama principal sera main 
+*Para cada nueva funcionalidad se debera de crear una rama aparete 
+*Para el flijo de trabajo usaremos GitHub Flow
