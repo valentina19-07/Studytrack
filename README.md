@@ -1,4 +1,7 @@
-#Reglas de colaboracion: 
-*La rama principal sera main 
-*Para cada nueva funcionalidad se debera de crear una rama aparete 
-*Para el flijo de trabajo usaremos GitHub Flow 
+## 🤝 Reglas de Colaboración
+
+- 📌 Trabajar siempre en ramas secundarias.
+- 🚀 Realizar commits descriptivos.
+- 🔒 No hacer cambios directos en `main`.
+- 🧪 Probar antes de subir cambios.
+- 📂 Mantener el proyecto organizado.
